@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map IODelegate
+#######################################
+
+#######################################
+#	Datatypes	(KEYWORD1)
+#######################################
+
+CC3000Delegate	KEYWORD1
+
+#######################################
+#	Methods	and	Functions	(KEYWORD2)
+####################################### 
+
+connected	KEYWORD2
+disconnect	KEYWORD2
+getClient	KEYWORD2
+initialize	KEYWORD2
+println	KEYWORD2
+
+#######################################
+#	Instances	(KEYWORD2)
+#######################################
+
+setAPCredentials	KEYWORD2
+
+#######################################
+#	Constants	(LITERAL1)
+#######################################
