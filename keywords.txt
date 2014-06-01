@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map IODelegate
+# Syntax Coloring Map CC3000Delegate
 #######################################
 
 #######################################
@@ -14,15 +14,14 @@ CC3000Delegate	KEYWORD1
 
 connected	KEYWORD2
 disconnect	KEYWORD2
+getCC3000	KEYWORD2
 getClient	KEYWORD2
 initialize	KEYWORD2
-println	KEYWORD2
+setAPCredentials	KEYWORD2
 
 #######################################
 #	Instances	(KEYWORD2)
 #######################################
-
-setAPCredentials	KEYWORD2
 
 #######################################
 #	Constants	(LITERAL1)
