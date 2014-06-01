@@ -1,5 +1,5 @@
-IODelegate
-==========
+CC3000Delegate
+==============
 
 simple delegate around the [AdaFruit CC3000 Library](https://github.com/adafruit/Adafruit_CC3000_Library) to handle setting up a connection to an access point, etc.
 
